@@ -1,0 +1,9 @@
+.box {
+  background-color: grey;
+  width: 100px;
+}
+
+.span {
+  display: inline;
+  background-color: aqua;
+}
